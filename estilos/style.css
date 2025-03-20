@@ -48,4 +48,11 @@
     display: block;
     padding: 20px;
  }
- 
+
+ #formulario > h1 {
+   margin-bottom: 10px;
+ }
+
+ #formulario > p {
+   margin-bottom: 10px;
+ }
